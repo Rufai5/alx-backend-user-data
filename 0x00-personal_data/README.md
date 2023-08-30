@@ -1,16 +1,25 @@
-#[ Personal Identifiable Information]
-[(https://images.app.goo.gl/NMMoeAGLiSVW6juGA)
-(https://images.app.goo.gl/q2va8twKZ3KJ24A16)l
-(https://images.app.goo.gl/bo6TxnY32R4xmmhA8)
-(https://images.app.goo.gl/2Bn5ms8EUfSJtm7FA)
-(https://images.app.goo.gl/D4ActCwA4he3HYjZ7)
-(https://images.app.goo.gl/kX7yKd7oV9FtQUHr9)
-(https://www.google.com/imgres?imgurl=https%3A%2F%2Fpii-tools.com%2Fwp-content%2Fuploads%2F2021%2F10%2Fpii-table1.png&tbnid=Xpe3yBWTOLnFdM&vet=1&imgrefurl=https%3A%2F%2Fpii-tools.com%2Fthe-complete-guide-to-pii%2F&docid=qm0YMeGYAx9R2M&w=800&h=620&source=sh%2Fx%2Fim%2Fm5%2F2)
-(https://images.app.goo.gl/xMRinWCB9mMqNakB9)
+#[ Personal Identifiable Information]()
+
+#[image 1](https://images.app.goo.gl/NMMoeAGLiSVW6juGA)
+
+#[image 2](https://images.app.goo.gl/q2va8twKZ3KJ24A16)
+
+#[image 3](https://images.app.goo.gl/bo6TxnY32R4xmmhA8)
+
+#[image 4](https://images.app.goo.gl/2Bn5ms8EUfSJtm7FA)
+
+#[image 5](https://images.app.goo.gl/D4ActCwA4he3HYjZ7)
+
+#[image 6](https://images.app.goo.gl/kX7yKd7oV9FtQUHr9)
+
+#[image 7](https://www.google.com/imgres?imgurl=https%3A%2F%2Fpii-tools.com%2Fwp-content%2Fuploads%2F2021%2F10%2Fpii-table1.png&tbnid=Xpe3yBWTOLnFdM&vet=1&imgrefurl=https%3A%2F%2Fpii-tools.com%2Fthe-complete-guide-to-pii%2F&docid=qm0YMeGYAx9R2M&w=800&h=620&source=sh%2Fx%2Fim%2Fm5%2F2)
+
+#[image 8](https://images.app.goo.gl/xMRinWCB9mMqNakB9)
 # [WATCH VIDEO]()
-![](https://youtu.be/SjkCKGjy4og?si=5zTixb91yvR5RMJF)
-![](https://youtu.be/sxZtTIOtGkU?si=a72cRNOq3XDfu_VB)
-![](https://youtu.be/txiQPqwZUMg?si=j3BS8wkwf67RWh69)
+
+#[](https://youtu.be/SjkCKGjy4og?si=5zTixb91yvR5RMJF)
+#[](https://youtu.be/sxZtTIOtGkU?si=a72cRNOq3XDfu_VB)
+#[](https://youtu.be/txiQPqwZUMg?si=j3BS8wkwf67RWh69)
 ![](https://youtu.be/PJBRdBAWfUA?si=RR82STRlXtWgR4mr)
 # [Logging documentation]()
 ![](https://m.youtube.com/watch?v=-ARI4Cz-awo)
